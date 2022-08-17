@@ -1,0 +1,83 @@
+@media (min-width: 280px) and (max-width:484px){
+    .logo-heaer{
+        width: 58vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;        flex-direction: column;
+    }
+     
+}
+@media (min-width: 485px) and (max-width:574px){
+    .logo-heaer{
+        width: 58vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;        flex-direction: column;
+    }
+}
+@media (min-width: 575px) and (max-width:684px){
+    .logo-heaer{
+        width: 48vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;        flex-direction: column;
+    }
+}
+@media (min-width: 685px) and (max-width:767px){
+    .logo-heaer{
+        width: 38vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;        flex-direction: column;
+    }
+}
+@media (min-width: 768px) and (max-width:991px){
+    .logo-heaer{
+        width: 25vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        
+        font-size: 12px;
+    }
+}
+@media (min-width:992px) and (max-width:1023px){
+    .logo-heaer{
+        width: 25vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        
+        font-size: 12px;
+    }
+}
+@media (min-width:1024px) and (max-width:1199px){
+    .logo-heaer{
+        width: 25vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;
+
+    }
+}
+@media (min-width:1200px) and (max-width:1366px){
+    .logo-heaer{
+        width: 20vw;
+        height: 13vh;
+    }
+    .testimonials{
+        display: flex;
+
+    }
+}
